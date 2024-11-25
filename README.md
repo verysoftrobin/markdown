@@ -11,5 +11,8 @@
 ### 추천 확장 프로그램
 - PlantUML을 사용하기 위한 확장 프로그램 설치
 - [Jdk23](https://www.oracle.com/java/technologies/downloads/?er=221886#jdk23-windows)
+- [Graphviz](https://www.graphviz.org/download/)
+
+- 
 - [PlantUML](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
 - [Graphviz Preview](https://marketplace.visualstudio.com/items?itemName=EFanZh.graphviz-preview)
