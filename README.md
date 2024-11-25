@@ -9,6 +9,5 @@
 - [vscode 다운로드](https://code.visualstudio.com/docs/?dv=win64user)
 
 ### 추천 확장 프로그램
--
 - [PlantUML](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
-- 
+- [Graphviz Preview](https://marketplace.visualstudio.com/items?itemName=EFanZh.graphviz-preview)
