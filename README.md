@@ -19,10 +19,12 @@
 - [Markdown Preview Enhanced]가 없어도 UML 표시 가능
   - [Markdown Preview Enhanced]가 비활성화 되어 있을 때만 가능
   - plantuml.server와 plantuml.render 항목만 세팅하면 된다.
-  - [이미지]
+  ![](.images/README2024-11-27-17-54-38.png)
+  
 - [Markdown Preview Enhanced] 에서 설정
   - [Markdown-Preview-Enhanced] Plantuml Server에 `https://www.plantuml.com/plantuml`만 세팅하면 된다.
   - 이때, PlantML의 설정(server, render)은 설정은 사용되지 않는다.
+  ![](.images/README2024-11-27-17-56-18.png)
 
 #### 오프라인 사용
 - 오프라인은 PlantUml Server를 사용하지 못하기 때문에 plantuml.jar을 사용한다.
@@ -33,7 +35,7 @@
   - [Markdown-Preview-Enhanced] `Plantuml Server`에 세팅이 되어 있으면 정상적으로 표시가 안될 수 있다.
   - [Markdown-Preview-Enhanced] `Plantuml Jar Path`에 파일명을 포함한 경로를 넣어주면 된다.
     - 예> _D:\Jobs\setting\plantuml\plantuml-mit-1.2024.8.jar_
-    - [이미지]
+    ![](.images/README2024-11-27-17-57-43.png)
 
 ### 기타
 설정 변경해도 설정이 적용되지 않을 수 있으니 재실행 후 다시 확인해 보면 된다.
